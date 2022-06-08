@@ -1,10 +1,11 @@
+import React from "react";
+import Categories from "./Components/Categories/Categories";
 
 
 function App() {
+  
   return (
-    <div>
-      <h1>Hello World</h1>
-    </div>
+    <Categories></Categories>
   );
 }
 
